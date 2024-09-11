@@ -3,4 +3,5 @@ public class Main {
         Hello h = new Hello();
         h.say();
     }
+    // clone 후 작성
 }
